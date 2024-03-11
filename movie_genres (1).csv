@@ -1,0 +1,13 @@
+genre_id,genre_name,description
+1,Action,"Movies involving physical fights, chases, and explosions."
+2,Adventure,Movies involving thrilling and exciting experiences.
+3,Comedy,Movies intended to make the audience laugh.
+4,Drama,Movies primarily focused on character development.
+5,Fantasy,Movies involving magical or supernatural elements.
+6,Horror,Movies designed to scare or unsettle the audience.
+7,Mystery,Movies involving suspense and solving puzzles.
+8,Romance,Movies centered around romantic relationships.
+9,Sci-Fi,Movies involving futuristic or speculative science.
+10,Thriller,Movies designed to keep the audience on the edge of their seats.
+11,Western,Movies set in the American Old West.
+12,Animation,Movies created through animation techniques.
